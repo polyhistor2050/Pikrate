@@ -19,8 +19,9 @@ body {
     text-align: center;
     background-color: beige;
     color: rgb(200, 111, 33);
-
+    /* background-image: url("./assets/"); */
 }
+
 h1 {
     display: inline-block;
     width: 55%;
