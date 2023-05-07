@@ -1,0 +1,51 @@
+body {
+    background-color:bisque;
+}
+
+.CenterMe {
+    color: #000000;
+    font-family: "Oswald", sans-serif;
+    font-size: 2.0rem;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    }
+h2 {
+    font-size: 2.2rem;
+    margin-top: 15%;
+    float: inline-start;
+    
+}
+img {
+    width: 45%;
+    border: 2px solid gray;
+    margin: 20px;
+    
+}
+.orange {
+    color: orange;
+}
+.left-picture {
+    float: left;
+    
+}
+
+ul.leftStars {
+    display: flex;
+    font-size: 3.0rem;
+    list-style-type: none;
+    float: left;
+    margin: 0 20% 15px 15%;
+    padding: 1px;
+}
+ul.rightStars {
+    display: flex;
+    font-size: 3.0rem;
+    list-style-type: none;
+    float: left;
+    justify-content: right;
+    margin: 0 10% 15px 20%;
+    padding: 1px;
+}
